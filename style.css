@@ -1,10 +1,14 @@
  div{
     width: 200px;
-    height: 100px;
+    height: 260px;
     float: right;
     font-size: 30px;
     margin-right: 10px;
     margin: 10%;
+    background-color: burlywood;
+    border-radius: 30%;
+    border: 3px solid #80ffff;
+    box-shadow: inset 12px 13px 4px ;
  }
 
  .divClass {
@@ -13,18 +17,20 @@
  .blueblock {
     /*width: 500px;*/
     height: 150px;
+    width: 300px;
     background-color: #236DCA;
-    left: 50%;
+    left: 10%;
     top: 50%;
     transform: translate(-50%,-50%);
  }
  .yellowblock {
     width: 200px;
-    height: 200px;
+    height: 250px;
     background-color: #FDE900;
  }
  
  .icone{
  color: #B70000;
- font-size: 40px;
+ font-size: 50px;
+ 
  }
