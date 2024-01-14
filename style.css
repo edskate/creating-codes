@@ -1,0 +1,30 @@
+ div{
+    width: 200px;
+    height: 100px;
+    float: right;
+    font-size: 30px;
+    margin-right: 10px;
+    margin: 10%;
+ }
+
+ .divClass {
+    background-color: blueviolet;
+ }
+ .blueblock {
+    /*width: 500px;*/
+    height: 150px;
+    background-color: #236DCA;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+ }
+ .yellowblock {
+    width: 200px;
+    height: 200px;
+    background-color: #FDE900;
+ }
+ 
+ .icone{
+ color: #B70000;
+ font-size: 40px;
+ }
